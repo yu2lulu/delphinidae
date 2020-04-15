@@ -24,6 +24,12 @@
 ```
 打开delphinidae,选择导入文件为db/index.db即可
 ```
+![init](https://raw.githubusercontent.com/yu2lulu/delphinidae/master/images/init.jpg)
 
-#### 界面
+#### 部分界面预览
+![](https://raw.githubusercontent.com/yu2lulu/delphinidae/master/images/portscan.jpg)
 
+<hr>
+![](https://raw.githubusercontent.com/yu2lulu/delphinidae/master/images/dnsCrack.jpg)
+<hr>
+![](https://raw.githubusercontent.com/yu2lulu/delphinidae/master/images/setting.jpg)
