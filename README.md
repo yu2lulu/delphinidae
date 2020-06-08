@@ -19,6 +19,8 @@
 	系统设置： 自定义字典
 ```
 
+详情内容和使用：[官方链接 http://delphinidae.yu2lulu.xyz](http://delphinidae.yu2lulu.xyz)
+
 ### 二、工具使用
 #### 初始化配置
 ```
